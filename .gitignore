@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-# /settings.json
 .vscode/*
+!.vscode/settings.json
 
 # testing
 /coverage
